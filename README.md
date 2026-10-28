@@ -91,4 +91,4 @@ STEP 6: Use zscore of to remove outliers
 <img width="817" height="735" alt="image" src="https://github.com/user-attachments/assets/ba3cd70e-566c-4ad2-999a-d223e4a52194" />
 
 # Result
-
+The given data has been successfully read, cleaned by handling duplicates and missing values, and saved to a new file named cleaned_data.csv.
